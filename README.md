@@ -4,6 +4,10 @@
 
 Welcome to the BLNK Portfolio project! This is a dynamic and visually appealing personal portfolio website built using modern web technologies. 🚀 The website comprises several sections including Home, About, Work, Journal / Blog, and Contact, each designed to showcase your professional background and personal projects in an engaging manner. 💼✨
 
+## Live Demo 🌐
+
+Check out the live demo of BLNK [here](https://blnk.vercel.app/) and experience its capabilities firsthand.
+
 ## ⚙️ Technology Stack
 
 This project leverages:
